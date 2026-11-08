@@ -18,9 +18,9 @@
       "roll": 0,
       "move": "MoveJ",
       "valid_ratio": 1.0,
-      "passes_kept": 5,
+      "passes_kept": 4,
       "passes_total": 5,
-      "coverage_pct": 100.0
+      "coverage_pct": 80.0
     },
     "Roof": {
       "dx": 0,
