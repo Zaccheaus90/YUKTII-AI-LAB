@@ -1,2 +1,1 @@
-MODEL/JETTA-GC-TOIUK.IGS filter=lfs diff=lfs merge=lfs -text
 MODEL/JETTA-GC-TOIUKA.IGS filter=lfs diff=lfs merge=lfs -text
