@@ -1,0 +1,60 @@
+{
+  "zones": {
+    "Left_Front": {
+      "dx": 0,
+      "dy": 2000,
+      "yaw": 180,
+      "move": "MoveL",
+      "valid_ratio": 0.3333333333333333,
+      "coverage_pct": 100.0
+    },
+    "Left_Rear": {
+      "dx": 0,
+      "dy": 2000,
+      "yaw": 180,
+      "move": "MoveL",
+      "valid_ratio": 0.3333333333333333,
+      "coverage_pct": 100.0
+    },
+    "Right_Front": {
+      "dx": 500,
+      "dy": 2000,
+      "yaw": 0,
+      "move": "MoveL",
+      "valid_ratio": 0.4,
+      "coverage_pct": 100.0
+    },
+    "Right_Rear": {
+      "dx": 500,
+      "dy": 2000,
+      "yaw": 0,
+      "move": "MoveJ",
+      "valid_ratio": 0.36074450084602366,
+      "coverage_pct": 100.0
+    },
+    "Roof": {
+      "dx": 0,
+      "dy": 2000,
+      "yaw": 0,
+      "move": "MoveJ",
+      "valid_ratio": 1.0,
+      "coverage_pct": 66.7
+    },
+    "Hood": {
+      "dx": -2000,
+      "dy": 2000,
+      "yaw": 0,
+      "move": "MoveJ",
+      "valid_ratio": 0.8368421052631579,
+      "coverage_pct": 77.8
+    },
+    "Trunk": {
+      "dx": 1000,
+      "dy": 2000,
+      "yaw": 0,
+      "move": "MoveJ",
+      "valid_ratio": 0.7017543859649124,
+      "coverage_pct": 77.8
+    }
+  }
+}

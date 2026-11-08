@@ -1,0 +1,44 @@
+{
+  "Left_Front": {
+    "dx": 400,
+    "dy": -1800,
+    "yaw": 0,
+    "valid_ratio": 0.4
+  },
+  "Left_Rear": {
+    "dx": 0,
+    "dy": 1800,
+    "yaw": 180,
+    "valid_ratio": 0.3333333333333333
+  },
+  "Right_Front": {
+    "dx": 400,
+    "dy": 1800,
+    "yaw": 0,
+    "valid_ratio": 0.4
+  },
+  "Right_Rear": {
+    "dx": 0,
+    "dy": -1800,
+    "yaw": 180,
+    "valid_ratio": 0.3333333333333333
+  },
+  "Roof": {
+    "dx": 0,
+    "dy": 1800,
+    "yaw": 0,
+    "valid_ratio": 0.2857142857142857
+  },
+  "Hood": {
+    "dx": 1200,
+    "dy": -1800,
+    "yaw": 180,
+    "valid_ratio": 0.2857142857142857
+  },
+  "Trunk": {
+    "dx": 1200,
+    "dy": 1800,
+    "yaw": 0,
+    "valid_ratio": 0.2857142857142857
+  }
+}

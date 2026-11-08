@@ -1,0 +1,60 @@
+{
+  "lane_y": 2300.0,
+  "zones": {
+    "Right_Front": {
+      "dx": -1500,
+      "dy": 2300.0,
+      "yaw": 0,
+      "roll": 180,
+      "move": "MoveL",
+      "valid_ratio": 0.11246992782678428,
+      "passes_kept": 3,
+      "passes_total": 5,
+      "coverage_pct": 60.0
+    },
+    "Right_Rear": {
+      "dx": 500,
+      "dy": 2300.0,
+      "yaw": 0,
+      "roll": 180,
+      "move": "MoveL",
+      "valid_ratio": 0.48455233291298866,
+      "passes_kept": 1,
+      "passes_total": 5,
+      "coverage_pct": 20.0
+    },
+    "Roof": {
+      "dx": -500,
+      "dy": 2300.0,
+      "yaw": 0,
+      "roll": 0,
+      "move": "MoveL",
+      "valid_ratio": 1.0,
+      "passes_kept": 2,
+      "passes_total": 9,
+      "coverage_pct": 22.2
+    },
+    "Hood": {
+      "dx": -1500,
+      "dy": 2300.0,
+      "yaw": 0,
+      "roll": 180,
+      "move": "MoveJ",
+      "valid_ratio": 0.9680672268907563,
+      "passes_kept": 5,
+      "passes_total": 9,
+      "coverage_pct": 55.6
+    },
+    "Trunk": {
+      "dx": 1500,
+      "dy": 2300.0,
+      "yaw": 0,
+      "roll": 0,
+      "move": "MoveJ",
+      "valid_ratio": 1.0,
+      "passes_kept": 6,
+      "passes_total": 9,
+      "coverage_pct": 66.7
+    }
+  }
+}
